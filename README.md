@@ -6,9 +6,9 @@
 **Domain**: Data Science  
 **Internship Level**: Entry Level  
 **Assigned By**: CodeClause  
-**Assigned To**: KRITIKA RAJ  
-**Start Date**: 1st AUG 
-**End Date**: 31th AUG  
+**Assigned To**: Rohit RAJ  
+**Start Date**: 1st OCT 
+**End Date**: 31th OCT 
 
 ### Project Details
 
